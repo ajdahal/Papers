@@ -46,11 +46,11 @@ https://arxiv.org/abs/2303.07263
 ## Software Testing and Machine Learning 
 
 
-Tufano, Rosalia, et al. "Using reinforcement learning for load testing of video games." Proceedings of the 44th International Conference on Software Engineering. 2022.
+Tufano, Rosalia, et al. "Using reinforcement learning for load testing of video games." Proceedings of the 44th International Conference on Software Engineering. 2022.           
 https://arxiv.org/pdf/2201.06865.pdf
 
 
-Böttinger, Konstantin, Patrice Godefroid, and Rishabh Singh. "Deep reinforcement fuzzing." 2018 IEEE Security and Privacy Workshops (SPW). IEEE, 2018.
+Böttinger, Konstantin, Patrice Godefroid, and Rishabh Singh. "Deep reinforcement fuzzing." 2018 IEEE Security and Privacy Workshops (SPW). IEEE, 2018.                 
 https://arxiv.org/abs/1801.04589
 
 
@@ -193,7 +193,7 @@ Mimura, Mamoru, and Ryo Ito. "Applying NLP techniques to malware detection in a 
 https://link.springer.com/article/10.1007/s10207-021-00553-8
 
 
-Awad, Yara, Mohamed Nassar, and Haidar Safa. "Modeling malware as a language." 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.
+Awad, Yara, Mohamed Nassar, and Haidar Safa. "Modeling malware as a language." 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.                 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8422083
 
 
