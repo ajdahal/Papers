@@ -8,7 +8,6 @@ Wang, Junjie, et al. "Software Testing with Large Language Model: Survey, Landsc
 https://arxiv.org/pdf/2307.07221.pdf
 
 
-
 Russo, Daniel. "Navigating the Complexity of Generative AI Adoption in Software Engineering." arXiv preprint arXiv:2307.06081 (2023).      
 https://arxiv.org/abs/2307.06081
 
@@ -39,6 +38,75 @@ Jin, Matthew, et al. "Inferfix: End-to-end program repair with llms." arXiv prep
 https://arxiv.org/abs/2303.07263
 
 
+Jiang, Nan, et al. "Impact of code language models on automated program repair." arXiv preprint arXiv:2302.05020 (2023).
+https://arxiv.org/abs/2302.05020
+
+
+Xia, Chunqiu Steven, and Lingming Zhang. "Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT." arXiv preprint arXiv:2304.00385 (2023).
+https://arxiv.org/abs/2304.00385
+
+
+Xia, C. S., Y. Wei, and L. Zhang. "Practical program repair in the era of large pre-trained language models (2022)." DOI: https://doi. org/10.48550/ARXIV 2210.
+https://arxiv.org/abs/2210.14179
+
+
+Yuan, Wei, et al. "CIRCLE: Continual repair across programming languages." Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis. 2022.
+https://arxiv.org/abs/2205.10956
+
+
+Cao, Jialun, et al. "A study on prompt design, advantages and limitations of chatgpt for deep learning program repair." arXiv preprint arXiv:2304.08191 (2023).
+https://arxiv.org/abs/2304.08191
+
+
+Zhang, Jialu, et al. "Repairing bugs in python assignments using large language models." arXiv preprint arXiv:2209.14876 (2022).
+https://arxiv.org/abs/2209.14876
+
+
+Huang, Kai, et al. "A Survey on Automated Program Repair Techniques." arXiv preprint arXiv:2303.18184 (2023).
+https://arxiv.org/abs/2303.18184
+
+
+Wu, Yonghao, et al. "Large Language Models in Fault Localisation." arXiv preprint arXiv:2308.15276 (2023).
+https://www.researchgate.net/publication/373487972_Large_Language_Models_in_Fault_Localisation
+
+
+Wei, Yuxiang, Chunqiu Steven Xia, and Lingming Zhang. "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair." arXiv preprint arXiv:2309.00608 (2023).
+https://www.semanticscholar.org/reader/14f3b3996f98e20e43b8bbba5fb189ca69884e07
+
+
+Xia, Chunqiu Steven, and Lingming Zhang. "Conversational automated program repair." arXiv preprint arXiv:2301.13246 (2023).
+https://arxiv.org/abs/2301.13246
+
+
+Nashid, Noor, Mifta Sintaha, and Ali Mesbah. "Retrieval-based prompt selection for code-related few-shot learning." Proceedings of the 45th International Conference on Software Engineering (ICSE’23). 2023.
+https://ieeexplore.ieee.org/document/10172590
+
+
+Joshi, Harshit, et al. "Repair is nearly generation: Multilingual program repair with llms." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 4. 2023.
+https://ojs.aaai.org/index.php/AAAI/article/view/25642
+
+
+Paul, Rishov, et al. "Enhancing Automated Program Repair through Fine-tuning and Prompt Engineering."
+https://arxiv.org/abs/2304.07840
+
+
+Charalambous, Yiannis, et al. "A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification." arXiv preprint arXiv:2305.14752 (2023).
+https://arxiv.org/abs/2305.14752
+
+
+Kang, Sungmin, et al. "Explainable Automated Debugging via Large Language Model-driven Scientific Debugging." arXiv preprint arXiv:2304.02195 (2023).
+https://arxiv.org/abs/2304.02195
+
+Xia, Chunqiu Steven, Yifeng Ding, and Lingming Zhang. "Revisiting the Plastic Surgery Hypothesis via Large Language Models." arXiv preprint arXiv:2303.10494 (2023).
+https://arxiv.org/abs/2303.10494
+
+
+Ahmed, Toufique, et al. "Improving Few-Shot Prompts with Relevant Static Analysis Products." arXiv preprint arXiv:2304.06815 (2023).
+https://arxiv.org/abs/2304.06815
+
+
+Li, Haonan, et al. "The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models." arXiv preprint arXiv:2308.00245 (2023).
+https://arxiv.org/abs/2308.00245
 
 
 
