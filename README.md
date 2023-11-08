@@ -109,7 +109,7 @@ Li, Haonan, et al. "The Hitchhiker's Guide to Program Analysis: A Journey with L
 https://arxiv.org/abs/2308.00245
 
 
-New Papers:
+### New Papers:
 
 Koutcheme, Charles, et al. "Automated Program Repair Using Generative Models for Code Infilling." International Conference on Artificial Intelligence in Education. Cham: Springer Nature Switzerland, 2023.
 https://link-springer-com.ezproxy.uta.edu/chapter/10.1007/978-3-031-36272-9_74
@@ -124,11 +124,11 @@ https://ieeexplore-ieee-org.ezproxy.uta.edu/stamp/stamp.jsp?tp=&arnumber=1030134
 
 	
 Koutcheme, Charles, et al. "Automated Program Repair Using Generative Models for Code Infilling." International Conference on Artificial Intelligence in Education. Cham: Springer Nature Switzerland, 2023.
-	https://link-springer-com.ezproxy.uta.edu/chapter/10.1007/978-3-031-36272-9_74
+https://link-springer-com.ezproxy.uta.edu/chapter/10.1007/978-3-031-36272-9_74
 	
 	
 First, E., Rabe, M. N., Ringer, T., & Brun, Y. (2023). Baldur: Whole-Proof Generation and Repair with Large Language Models. ArXiv. /abs/2303.04910.
-	https://arxiv.org/pdf/2303.04910.pdf
+https://arxiv.org/pdf/2303.04910.pdf
 	
 	
 Yang, A. Z., Martins, R., Goues, C. L., & Hellendoorn, V. J. (2023). Large Language Models for Test-Free Fault Localization. ArXiv. /abs/2310.01726.
