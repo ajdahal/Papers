@@ -109,6 +109,42 @@ Li, Haonan, et al. "The Hitchhiker's Guide to Program Analysis: A Journey with L
 https://arxiv.org/abs/2308.00245
 
 
+New Papers:
+
+Koutcheme, Charles, et al. "Automated Program Repair Using Generative Models for Code Infilling." International Conference on Artificial Intelligence in Education. Cham: Springer Nature Switzerland, 2023.
+https://link-springer-com.ezproxy.uta.edu/chapter/10.1007/978-3-031-36272-9_74
+
+
+Ribeiro, Francisco. "Large Language Models for Automated Program Repair." Companion Proceedings of the 2023 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity. 2023.
+https://dl.acm.org/doi/abs/10.1145/3618305.3623587
+
+	
+Weng, Guoyang, and Artur Andrzejak. "Automatic Bug Fixing via Deliberate Problem Solving with Large Language Models." 2023 IEEE 34th International Symposium on Software Reliability Engineering Workshops (ISSREW). IEEE Computer Society, 2023.
+https://ieeexplore-ieee-org.ezproxy.uta.edu/stamp/stamp.jsp?tp=&arnumber=10301342
+
+	
+Koutcheme, Charles, et al. "Automated Program Repair Using Generative Models for Code Infilling." International Conference on Artificial Intelligence in Education. Cham: Springer Nature Switzerland, 2023.
+	https://link-springer-com.ezproxy.uta.edu/chapter/10.1007/978-3-031-36272-9_74
+	
+	
+First, E., Rabe, M. N., Ringer, T., & Brun, Y. (2023). Baldur: Whole-Proof Generation and Repair with Large Language Models. ArXiv. /abs/2303.04910.
+	https://arxiv.org/pdf/2303.04910.pdf
+	
+	
+Yang, A. Z., Martins, R., Goues, C. L., & Hellendoorn, V. J. (2023). Large Language Models for Test-Free Fault Localization. ArXiv. /abs/2310.01726.
+https://arxiv.org/pdf/2310.01726.pdf
+	
+	
+Wu, Y., Li, Z., Zhang, J. M., & Liu, Y. (2023). ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair. ArXiv. /abs/2310.16253.
+https://arxiv.org/pdf/2310.16253.pdf
+	
+	
+Lee, Jae Yong, et al. "The GitHub Recent Bugs Dataset for Evaluating LLM-based Debugging Applications." arXiv preprint arXiv:2310.13229 (2023).
+https://arxiv.org/pdf/2310.13229.pdf
+
+
+
+
 
 
 ## Software Testing and Machine Learning 
